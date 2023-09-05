@@ -8,6 +8,9 @@ Target audience / Target market - Group of people or individual business aims to
 Search engine -  search engine is a software program or online service that allows users to search and retrieve information from the internet
 Eg - Google , DuckDuckGo , Bing , Yahoo
 
+Search Engine Optimization (SEO) is a set of techniques and strategies aimed at improving a website's visibility and ranking on search engine results pages (SERPs). The primary goal of SEO is to increase organic (non-paid) traffic to a website by making it more relevant and attractive to search engines like Google, Bing, and Yahoo.
+
+
 
 Relationship Marketing - Focuses on customer loyalty and long term customer engagement rather than short term customer acquisition and individual sales.
 Maintaining longer term relationship with customers
