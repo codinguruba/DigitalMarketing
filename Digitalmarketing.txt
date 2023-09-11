@@ -65,5 +65,10 @@ Social Factors:
 Family
 Roles and status
 
+Market is a grouping of customers.
+
+Consists all existing and potential
+customers(individuals, groups, household or
+organizations)
 
 
