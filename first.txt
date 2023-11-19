@@ -3,8 +3,14 @@
 Digital marketing is the use of online channels and technologies to promote products, services, or brands
 to a target audience, employing strategies such as SEO, social media, email, and online advertising.
 
+Marketing is a broad business concept that involves the activities a company undertakes to promote and sell its products or services. It encompasses a range of activities aimed at understanding customer needs, creating products or services that meet those needs, and effectively promoting and distributing them to the target audience. 
+
 A target audience refers to a specific group of people at which a product, service, or marketing message is aimed. This group is identified based on various demographic, geographic, psychographic,
 and behavioral characteristics that make its members likely consumers or users of a particular offering.
+
+SEO, or Search Engine Optimization, is the practice of making your website or online content more visible and attractive to search engines like Google.
+
+In simple words, think of SEO as a way to make your website more appealing to search engines so that they recommend it to people searching for relevant topics. 
 
 
 
